@@ -9,6 +9,6 @@ public class App {
 
         //Now we will print something new
         System.out.println("I created a branch for development");
-        System.out.println("Added line in vscode");
+        System.out.println("added line in intellij");
     }
 }
