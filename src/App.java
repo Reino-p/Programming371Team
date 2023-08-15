@@ -7,10 +7,7 @@ public class App {
 
         //added a new comment at end!
 
-        //Now we will print something new
-        System.out.println("I created a branch for development");
-        System.out.println("added line in intellij");
-        System.out.println("added line in vscode");
-        System.out.println("Added second line in idea");
+        //removed all lines
+
     }
 }
