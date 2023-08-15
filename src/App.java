@@ -8,6 +8,7 @@ public class App {
         //added a new comment at end!
 
         //removed all lines
+        //Cool
 
     }
 }
