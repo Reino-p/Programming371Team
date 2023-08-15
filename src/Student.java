@@ -11,9 +11,9 @@ public class Student {
 
     //constructor
 
-    public Student(String name, int id){
-        this.name = name;
-        this.id = id;
+    public Student(String n, int i){
+        this.name = n;
+        this.id = i;
     }
 
 }
